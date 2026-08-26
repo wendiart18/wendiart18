@@ -20,13 +20,13 @@
 
 ## 🛠️ **Skills**
 
-    - Networking  : IP Addressing, Subnetting, OSI Model, DHCP, DNS, VLAN
-    - System Administration : Windows, Linux, Server Management
-    - Hardware : PC Assembly, Hardware Troubleshooting, LAN Cable Instalation
-    - Programing : Basic Python (Block Code)
-    - Microcontrollers : Micro:bit, ESP32, Quarky
-    - Tools : Git, GitHub, VS Code, Cisco Packet Tracer
-    - Creative Sills : Photography, Video Editing, Documentation
+- Networking  : IP Addressing, Subnetting, OSI Model, DHCP, DNS, VLAN
+- System Administration : Windows, Linux, Server Management
+- Hardware : PC Assembly, Hardware Troubleshooting, LAN Cable Instalation and optimitation driver
+- Programing : Basic Python (Block Code)
+- Microcontrollers : Micro:bit, ESP32, Quarky
+- Tools : Git, GitHub, VSCode, Cisco Packet Tracer
+- Creative Sills : Photography, Video Editing, photo editing, Documentation
 
 ## 🚀 Projects
 
@@ -35,7 +35,7 @@
     A rain detection system developed using a Micro:bit and a rain sensor Module and Servo 160°.
     The system detects water or rainfall conditions and provides an indicator based on the sensor's input
 
-Technologies : Micro:bit, Sensors, Embedded Systema
+> Technologies : Micro:bit, servo motor 180º, raindrop sensor
 
 ### 🤖 **SIPAKSA** — Smart Waste Management Robot
 
@@ -44,6 +44,8 @@ SIPAKSA is an autonomous waste management robot designed to assist users in prop
 While Moving, SIPAKSA communicates with users through voice instructions, saying: "I am SIPAKSA, please put your trash in me"
 
 The robot features separate compartements for organic and inorganic waste. it can detect the location of the waste and provide voice guidance to help users dispose of it in the correct compartement. If waste is placed in the wrong compartement, SIPAKSA provides an audio warning and informs the user that the waste has been incorrectly sorted.
+
+> Technologies : Quarky, Ultrasonic Sensor, Object detection, Machine Learning
 
 ---
 
@@ -121,7 +123,7 @@ The robot features separate compartements for organic and inorganic waste. it ca
 
 ![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_3447.JPG?raw=true )
 
-![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_3506.JPG?raw=true )
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_3508.JPG?raw=true )
 
 **Won a robotics competition as part of a team by developing and presenting a functional robotics project. The competition involved problem-solving, teamwork, technical implementation, and robot development**
 
