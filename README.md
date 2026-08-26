@@ -4,9 +4,10 @@
 
 #### **IT & Networking Engineer**
 
+
 ![alt text](https://github.com/wendiart18/wendiart18/blob/main/b6b67bc41c86703cd4881ec4645d8516-removebg-preview.png?raw=true)
 
-## TOTAL 
+## TOTAL VISITS 
 
 <p align="center">
   <img src="https://count.getloli.com/@wendi" alt="Moe Counter">
@@ -93,7 +94,7 @@ The robot features separate compartements for organic and inorganic waste. it ca
 
 **Activities included:**
 
-- - Learning fundamental networking concepts
+ - Learning fundamental networking concepts
   - studying OSI layer and TCP/IP
   - Practicing IP addressing and subnetting
   - Learning DNS and DHCP
@@ -101,11 +102,20 @@ The robot features separate compartements for organic and inorganic waste. it ca
   - Completing Technical LMS courses
   - Participating in collaborative projects and activites
 
+### 🏆 Achievement
+
+#### **Robotics Competition - SUSTAINABILIYY INNOVATION AWARD**
+
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_3500.JPG?raw=true )
+
+**Won a robotics competition as part of a team by developing and presenting a functional robotics project. The competition involved problem-solving, teamwork, technical implementation, and robot development**
+
+
 ### 📜 Certifications
 
 **Network Fundamentals**
 
-_Completed a networking fundamentals course covering OSI Layer, IP Protocols, MAC Address, IP Address, Subnetting, UTP/STP, aND fIBER Optic fundamentals_
+**Completed a networking fundamentals course covering OSI Layer, IP Protocols, MAC Address, IP Address, Subnetting, UTP/STP, aND fIBER Optic fundamentals**
 
 ---
 
@@ -114,8 +124,8 @@ _Completed a networking fundamentals course covering OSI Layer, IP Protocols, MA
 
 ## 📫 Contact
 
-- **IG : [wenzzx._](https://www.instagram.com/wenzzx._/)**
-- **LinkedIn: ..**
-
+- **IG: [wenzzx._](https://www.instagram.com/wenzzx._/)**
+- **LinkedIn: [Wendy Aritonang](https://www.linkedin.com/in/wendy-aritonang-41088040b?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
+- **Gmail: wendiart1804@gmail.com**
 
 
