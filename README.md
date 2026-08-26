@@ -5,11 +5,14 @@
 
 #### **IT & Networking Engineer**
 
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/b6b67bc41c86703cd4881ec4645d8516-removebg-preview.png?raw=true)
+
+
 ---
 
 **I am a Computer and Network Engineering student with an interest in networking, information, technology, system administration, and technology development. I enjoy learning through hands-on project and exploring how technology can be used to solve real-world problems.**
 
-🛠️ **Skills**
+## 🛠️ **Skills**
 
     - Networking  : IP Addressing, Subnetting, OSI Model, DHCP, DNS, VLAN
     - System Administration : Windows, Linux, Server Management
