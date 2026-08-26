@@ -38,7 +38,7 @@ Technologies : Micro:bit, Sensors, Embedded Systema
 
 ### Documentation
 
-![gambar1](STEM\ALK20251213_0377.JPG)
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_0377.JPG?raw=true)
 
 ## **Key Features**
 
