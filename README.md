@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://count.getloli.com/@wendi" alt="Moe Counter">
 </p>
+
 ---
 
 **I am a Computer and Network Engineering student with an interest in networking, information, technology, system administration, and technology development. I enjoy learning through hands-on project and exploring how technology can be used to solve real-world problems.**
@@ -143,3 +144,4 @@ The robot features separate compartements for organic and inorganic waste. it ca
 - **Gmail: wendiart1804@gmail.com**
 
 
+___
