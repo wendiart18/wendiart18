@@ -30,15 +30,18 @@ Technologies : Micro:bit, Sensors, Embedded Systema
 
 ### 🤖 **SIPAKSA** — Smart Waste Management Robot
 
-    SIPAKSA is an autonomous waste management robot designed to assist users in properly shorting and disposing of waste. The robot follows a black line autonomosly and can be stopped by triggering its ultrasonic sensor.
+SIPAKSA is an autonomous waste management robot designed to assist users in properly shorting and disposing of waste. The robot follows a black line autonomosly and can be stopped by triggering its ultrasonic sensor.
 
-    While Moving, SIPAKSA communicates with users through voice instructions, saying: "I am SIPAKSA, please put your trash in me"
+While Moving, SIPAKSA communicates with users through voice instructions, saying: "I am SIPAKSA, please put your trash in me"
 
-    The robot features separate compartements for organic and inorganic waste. it can detect the location of the waste and provide voice guidance to help users dispose of it in the correct compartement. If waste is placed in the wrong compartement, SIPAKSA provides an audio warning and informs the user that the waste has been incorrectly sorted.
+The robot features separate compartements for organic and inorganic waste. it can detect the location of the waste and provide voice guidance to help users dispose of it in the correct compartement. If waste is placed in the wrong compartement, SIPAKSA provides an audio warning and informs the user that the waste has been incorrectly sorted.
 
 ### Documentation
+#### **JA RAISE Robotic and Artificial Intelegence in STEM Education** 
 
-![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_0377.JPG?raw=true)
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_0377.JPG?raw=true) 
+---
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_2206.JPG?raw=true)
 
 ## **Key Features**
 
