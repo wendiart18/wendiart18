@@ -75,13 +75,12 @@ The robot features separate compartements for organic and inorganic waste. it ca
 
 <p align="center">
     <img src="https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_2206.JPG?raw=true" width="300">
-</p>
-
----
+</p> 
 
 <p align="center">
     <img src="https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_0377.JPG?raw=true" width="400">
 </p>
+
 
 
 ---
@@ -119,7 +118,9 @@ The robot features separate compartements for organic and inorganic waste. it ca
 
 #### **Robotics Competition - SUSTAINABILIYY INNOVATION AWARD**
 
-![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_3500.JPG?raw=true )
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_3447.JPG?raw=true )
+
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_3506.JPG?raw=true )
 
 **Won a robotics competition as part of a team by developing and presenting a functional robotics project. The competition involved problem-solving, teamwork, technical implementation, and robot development**
 
