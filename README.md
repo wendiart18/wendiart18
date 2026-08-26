@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### **Wendy Mario Putra Aritonang**
-
+### **Wendy Mario Putra Aritonang** 
 
 #### **IT & Networking Engineer**
 
@@ -104,8 +103,18 @@ The robot features separate compartements for organic and inorganic waste. it ca
 
 _Completed a networking fundamentals course covering OSI Layer, IP Protocols, MAC Address, IP Address, Subnetting, UTP/STP, aND fIBER Optic fundamentals_
 
+---
+
+## TOTAL 
+
+
+![:name](https://count.getloli.com/@:wendiart18)
+
+
 ## 📫 Contact
 
 - **IG : [wenzzx._](https://www.instagram.com/wenzzx._/)**
 - **LinkedIn: ..**
-- **Email: wendiart1804@gmail.com**
+
+
+
