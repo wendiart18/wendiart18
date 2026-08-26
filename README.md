@@ -6,7 +6,11 @@
 
 ![alt text](https://github.com/wendiart18/wendiart18/blob/main/b6b67bc41c86703cd4881ec4645d8516-removebg-preview.png?raw=true)
 
+## TOTAL 
 
+<p align="center">
+  <img src="https://count.getloli.com/@wendi" alt="Moe Counter">
+</p>
 ---
 
 **I am a Computer and Network Engineering student with an interest in networking, information, technology, system administration, and technology development. I enjoy learning through hands-on project and exploring how technology can be used to solve real-world problems.**
@@ -105,10 +109,7 @@ _Completed a networking fundamentals course covering OSI Layer, IP Protocols, MA
 
 ---
 
-## TOTAL 
 
-
-![:name](https://count.getloli.com/@:wendiart18)
 
 
 ## 📫 Contact
