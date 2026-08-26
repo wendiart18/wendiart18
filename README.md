@@ -44,13 +44,8 @@ While Moving, SIPAKSA communicates with users through voice instructions, saying
 
 The robot features separate compartements for organic and inorganic waste. it can detect the location of the waste and provide voice guidance to help users dispose of it in the correct compartement. If waste is placed in the wrong compartement, SIPAKSA provides an audio warning and informs the user that the waste has been incorrectly sorted.
 
-### Documentation 
-#### **JA RAISE (Robotic and Artificial Intelligence in STEM Education) event.**
-#### **sprint review SIPAKSA robot**
-
-![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_0377.JPG?raw=true) 
 ---
-![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_2206.JPG?raw=true)
+
 
 ## **Key Features**
 
@@ -72,6 +67,16 @@ The robot features separate compartements for organic and inorganic waste. it ca
     - Sensor Integration
     - Embedded Systems
     - Teamwork & Problem Solving
+
+## **Documentation**
+
+#### **JA RAISE (Robotic and Artificial Intelligence in STEM Education) event.**
+#### **sprint review SIPAKSA robot**
+
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_0377.JPG?raw=true) 
+---
+![alt text](https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_2206.JPG?raw=true)
+
 
 ---
 
