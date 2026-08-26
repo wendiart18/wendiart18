@@ -103,6 +103,6 @@ _Completed a networking fundamentals course covering OSI Layer, IP Protocols, MA
 
 ## 📫 Contact
 
-- IG : wenzzx.\_
-- LinkedIn: ..
-- Email: wendiart1804@gmail.com
+- **IG : [wenzzx._](https://www.instagram.com/wenzzx._/)**
+- **LinkedIn: ..**
+- **Email: wendiart1804@gmail.com**
