@@ -74,7 +74,7 @@ The robot features separate compartements for organic and inorganic waste. it ca
 ## **Documentation**
 
 #### **JA RAISE (Robotic and Artificial Intelligence in STEM Education) event.**    
-### **sprint review SIPAKSA robot**
+### **Sprint review SIPAKSA robot**
 
 <p align="center">
     <img src="https://github.com/wendiart18/wendiart18/blob/main/STEM/ALK20251213_2206.JPG?raw=true" width="300">
